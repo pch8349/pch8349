@@ -1,6 +1,12 @@
-### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pch8349&layout=compact)
+### 백엔드 개발자 박찬혁입니다 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pch8349)](https://solved.ac/pch8349/)
+
 ![Pch's GitHub stats](https://github-readme-stats.vercel.app/api?username=pch8349&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pch8349&layout=compact)
+
+
 <!--
 **pch8349/pch8349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
