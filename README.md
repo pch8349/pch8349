@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pch8349&layout=compact)
+![Pch's GitHub stats](https://github-readme-stats.vercel.app/api?username=pch8349&show_icons=true&theme=radical)
 <!--
 **pch8349/pch8349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
